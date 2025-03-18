@@ -1,0 +1,10 @@
+D:\FACULDADE\3 SEMESTRE\APP_DESKTOP\AgendaApp\AgendaApp\bin\Debug\AgendaApp.exe.config
+D:\FACULDADE\3 SEMESTRE\APP_DESKTOP\AgendaApp\AgendaApp\bin\Debug\AgendaApp.exe
+D:\FACULDADE\3 SEMESTRE\APP_DESKTOP\AgendaApp\AgendaApp\bin\Debug\AgendaApp.pdb
+D:\FACULDADE\3 SEMESTRE\APP_DESKTOP\AgendaApp\AgendaApp\obj\Debug\AgendaApp.csproj.AssemblyReference.cache
+D:\FACULDADE\3 SEMESTRE\APP_DESKTOP\AgendaApp\AgendaApp\obj\Debug\AgendaApp.Form1.resources
+D:\FACULDADE\3 SEMESTRE\APP_DESKTOP\AgendaApp\AgendaApp\obj\Debug\AgendaApp.Properties.Resources.resources
+D:\FACULDADE\3 SEMESTRE\APP_DESKTOP\AgendaApp\AgendaApp\obj\Debug\AgendaApp.csproj.GenerateResource.cache
+D:\FACULDADE\3 SEMESTRE\APP_DESKTOP\AgendaApp\AgendaApp\obj\Debug\AgendaApp.csproj.CoreCompileInputs.cache
+D:\FACULDADE\3 SEMESTRE\APP_DESKTOP\AgendaApp\AgendaApp\obj\Debug\AgendaApp.exe
+D:\FACULDADE\3 SEMESTRE\APP_DESKTOP\AgendaApp\AgendaApp\obj\Debug\AgendaApp.pdb
