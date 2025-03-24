@@ -38,7 +38,7 @@ namespace AgendaApp
             string email = txtEmail.Text;
             string msg = controller.AdicionarUsuario(nome, whatsapp, email);
 
-            this.RefreshDGV(); MessageBox.Show(msg);
+            this.RefreshDGV(); MessageBox.Show(msg,"aviso",MessageBoxButtons.OK,MessageBoxIcon.Information);
 
 
         }

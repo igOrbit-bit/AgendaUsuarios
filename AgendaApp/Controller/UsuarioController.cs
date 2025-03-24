@@ -29,7 +29,7 @@ namespace AgendaApp.Controller
 
             Usuario usuario = new Usuario(nome, whatsappValidado, email);
             model.addUsuario(usuario);
-            return "Produto salvo com sucesso";
+            return "Usuario adicionado com sucesso";
         }
         public List<Usuario> GetUsuarios()
         {
