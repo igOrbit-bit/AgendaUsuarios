@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\FACULDADE\\3 SEMESTRE\\APP_DESKTOP\\CODIGOS\\AgendaApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0DC545CC-3450-41E7-9DA7-0EDA58A1D59F}|AgendaApp\\AgendaApp.csproj|D:\\FACULDADE\\3 SEMESTRE\\APP_DESKTOP\\CODIGOS\\AgendaApp\\agendaapp\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DC545CC-3450-41E7-9DA7-0EDA58A1D59F}|AgendaApp\\AgendaApp.csproj|solutionrelative:agendaapp\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FACULDADE\\3 SEMESTRE\\APP_DESKTOP\\CODIGOS\\AgendaApp\\AgendaApp\\View\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AgendaApp\\View\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DC545CC-3450-41E7-9DA7-0EDA58A1D59F}|AgendaApp\\AgendaApp.csproj|d:\\faculdade\\3 semestre\\app_desktop\\codigos\\agendaapp\\agendaapp\\controller\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DC545CC-3450-41E7-9DA7-0EDA58A1D59F}|AgendaApp\\AgendaApp.csproj|solutionrelative:agendaapp\\controller\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FACULDADE\\3 SEMESTRE\\APP_DESKTOP\\CODIGOS\\AgendaApp\\agendaapp\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:agendaapp\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DC545CC-3450-41E7-9DA7-0EDA58A1D59F}|AgendaApp\\AgendaApp.csproj|D:\\FACULDADE\\3 SEMESTRE\\APP_DESKTOP\\CODIGOS\\AgendaApp\\agendaapp\\model\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DC545CC-3450-41E7-9DA7-0EDA58A1D59F}|AgendaApp\\AgendaApp.csproj|solutionrelative:agendaapp\\model\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FACULDADE\\3 SEMESTRE\\APP_DESKTOP\\CODIGOS\\AgendaApp\\AgendaApp\\Model\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AgendaApp\\Model\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DC545CC-3450-41E7-9DA7-0EDA58A1D59F}|AgendaApp\\AgendaApp.csproj|D:\\FACULDADE\\3 SEMESTRE\\APP_DESKTOP\\CODIGOS\\AgendaApp\\agendaapp\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DC545CC-3450-41E7-9DA7-0EDA58A1D59F}|AgendaApp\\AgendaApp.csproj|solutionrelative:agendaapp\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FACULDADE\\3 SEMESTRE\\APP_DESKTOP\\CODIGOS\\AgendaApp\\AgendaApp\\Model\\UsuarioModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AgendaApp\\Model\\UsuarioModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DC545CC-3450-41E7-9DA7-0EDA58A1D59F}|AgendaApp\\AgendaApp.csproj|D:\\FACULDADE\\3 SEMESTRE\\APP_DESKTOP\\CODIGOS\\AgendaApp\\agendaapp\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0DC545CC-3450-41E7-9DA7-0EDA58A1D59F}|AgendaApp\\AgendaApp.csproj|solutionrelative:agendaapp\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FACULDADE\\3 SEMESTRE\\APP_DESKTOP\\CODIGOS\\AgendaApp\\AgendaApp\\Controller\\UsuarioController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AgendaApp\\Controller\\UsuarioController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "D:\\FACULDADE\\3 SEMESTRE\\APP_DESKTOP\\CODIGOS\\AgendaApp\\AgendaApp\\Controller\\UsuarioController.cs",
               "RelativeDocumentMoniker": "AgendaApp\\Controller\\UsuarioController.cs",
@@ -42,12 +42,11 @@
               "RelativeToolTip": "AgendaApp\\Controller\\UsuarioController.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwCMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T16:50:34.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T16:50:34.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\FACULDADE\\3 SEMESTRE\\APP_DESKTOP\\CODIGOS\\AgendaApp\\AgendaApp\\View\\Form1.cs",
               "RelativeDocumentMoniker": "AgendaApp\\View\\Form1.cs",
@@ -59,20 +58,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UsuarioModel.cs",
               "DocumentMoniker": "D:\\FACULDADE\\3 SEMESTRE\\APP_DESKTOP\\CODIGOS\\AgendaApp\\AgendaApp\\Model\\UsuarioModel.cs",
               "RelativeDocumentMoniker": "AgendaApp\\Model\\UsuarioModel.cs",
               "ToolTip": "D:\\FACULDADE\\3 SEMESTRE\\APP_DESKTOP\\CODIGOS\\AgendaApp\\AgendaApp\\Model\\UsuarioModel.cs",
               "RelativeToolTip": "AgendaApp\\Model\\UsuarioModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAwAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T16:47:05.598Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Usuario.cs",
               "DocumentMoniker": "D:\\FACULDADE\\3 SEMESTRE\\APP_DESKTOP\\CODIGOS\\AgendaApp\\AgendaApp\\Model\\Usuario.cs",
               "RelativeDocumentMoniker": "AgendaApp\\Model\\Usuario.cs",
@@ -91,7 +90,7 @@
               "RelativeDocumentMoniker": "AgendaApp\\View\\Form1.cs",
               "ToolTip": "D:\\FACULDADE\\3 SEMESTRE\\APP_DESKTOP\\CODIGOS\\AgendaApp\\AgendaApp\\View\\Form1.cs",
               "RelativeToolTip": "AgendaApp\\View\\Form1.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAgwCgAAABqAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T16:38:40.378Z",
               "EditorCaption": ""
